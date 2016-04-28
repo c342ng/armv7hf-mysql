@@ -1,0 +1,6 @@
+deb http://debian.bjtu.edu.cn/debian stable main non-free contrib
+deb http://debian.bjtu.edu.cn/debian stable-proposed-updates main contrib non-free
+deb http://debian.bjtu.edu.cn/debian-security stable/updates main contrib non-free
+deb-src http://debian.bjtu.edu.cn/debian stable main non-free contrib
+deb-src http://debian.bjtu.edu.cn/debian stable-proposed-updates main contrib non-free
+deb-src http://debian.bjtu.edu.cn/debian-security stable/updates main contrib non-free
